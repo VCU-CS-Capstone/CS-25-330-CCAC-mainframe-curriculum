@@ -20,7 +20,6 @@ a better understanding of the problems you encountered during the development of
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - Dr. Robert Dahlberg - Computer Science - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- Arbab Arif - Computer Science Major - Student Team Member
+- Long Le - Computer Science Major - Student Team Member
+- Osman Zafar - Computer Science Major - Student Team Member

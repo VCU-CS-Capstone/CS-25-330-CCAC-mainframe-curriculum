@@ -1,15 +1,15 @@
 # *CSnnn Project Name*
-## **Sponsor:**
+## **Sponsor:Commonwealth Center for Advanced Computing (CCAC)**
 
-**Students' Names:**
+**Students' Names: Arbab Arif, Long Le, Osman Zafar**
 
-**Mentor:**
+**Mentor:Robert Dahlberg**
 
-**Faculty Advisor:**
+**Faculty Advisor:Rober Dahlberg**
 
-**Project:**
+**Project:CCAC Mainframe Online Curriculum**
 
-**Project Description:**
+**Project Description: Identify topics for Mainframe Curriculum, install an Online LMS, and create a certification. The team will work with CCAC staff and other stakeholders to help with the talent pool shortage in mainframe skills. May work with IBM, Broadcom, and the Linux Foundation's Open Mainframe Project (OMP)**
 
 **Problem Definition:**
 

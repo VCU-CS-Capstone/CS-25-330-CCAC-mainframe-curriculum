@@ -1,21 +1,21 @@
-# *CS 25-XXX Project Name*
+# *CS 25-330 CCAC Mainframe Online Curriculum*
 
-**Students' Names:**
+**Students' Names: Arbab Arif, Long Le, Osman Zafar**
 
-**Mentor:**
+**Mentor: Robert Dahlberg**
 
-**Faculty Advisor:**
+**Faculty Advisor:Robert Dahlberg**
 
 ## 1) Accomplishments this week ##
-   - investigate databases done by student A
-   - make flowcharts done by students A and B
+   - Met with Dahlberg to get a good idea about the project
+   - Did some research about the course
 
 ## 2) Milestones to be completed next week ##
-   - debug the code to be performed by student C
+   - Head to the base
+   - Meet with other helpers
 
 ## 3) Issues, problems or concerns ##
-   - student C needs to learn java
-   - database repository costs big $$$
+   - None as of now
    
 
 

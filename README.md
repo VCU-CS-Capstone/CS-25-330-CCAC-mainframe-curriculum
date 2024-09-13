@@ -1,10 +1,7 @@
 # CS-25-330- CCAC Mainframe Curriculum
 ## Commonwealth Center for Advanced Computing (VCU)
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
-follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the development of this project. 
+Identify topics for Mainframe Curriculum, install an Online LMS, and create a certification. The team will work with CCAC staff and other stakeholders to help with the talent pool shortage in mainframe skills. May work with IBM, Broadcom, and the Linux Foundation's Open Mainframe Project (OMP)
 
 | Folder | Description |
 |---|---|

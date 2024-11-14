@@ -11,4 +11,3 @@ For the Spring Semester, these are (still TBC):
 5) Expo Abstract
 6) Expo Poster
 7) Final Design Report
-

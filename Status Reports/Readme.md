@@ -12,8 +12,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
 | Week 1 Status Report | We had meetings with our faculty advisor and did some research on IBM | We will try to go to the base and meet with other helpers | No problems to report! |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
+| Week 2 Status Report | We gathered preliminary information to discuss with our faculty advisor and determine a plan for moving forward. | We looked through documents and material provided to us by our faculty advisor and came up with a plan on how to work through them. | None to report! |
+| Week 3 Status Report | We went over foundational mainframe topics in order to have a basic understanding of Z/os |  | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |

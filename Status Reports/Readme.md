@@ -32,14 +32,14 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
+| Week 1 Status Report |Meet with the team and talk about the project. | We met up and talked about scheduling and any issues that might occur this semester.| No issues. |
+| Week 2 Status Report |Meet with new advisor and talk about expectations. | Met with a new advisor and set expectations for the semester. | No issues this week. |
+| Week 3 Status Report |Reread research and finish up any loose ends with our research. | Refamiliarized with our research. | Still a couple loose ends to get done with the research. |
+| Week 4 Status Report |Research platforms for the modules. | Did not do much this week | Need to finish up research on platforms. |
+| Week 5 Status Report |Finish research what platform we want our modules on. |We finished up research and made a decision. | No issues |
+| Week 6 Status Report |Start to work on setting up openedx. | Did research on how to set up openedx. | No issues.|
+| Week 7 Status Report |Work on setting up deadlines for this week and finish setting up openedx. | Set up deadlines and worked on openedx. |Openedx is still not setup yet. |
+| Week 8 Status Report |Finish setting up open edx and work on first module. |We set up openedx and worked on our first module. |No issues. |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |

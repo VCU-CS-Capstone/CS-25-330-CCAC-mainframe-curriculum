@@ -14,9 +14,8 @@ Identify topics for Mainframe Curriculum, install an Online LMS, and create a ce
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- Dr. Robert Dahlberg - Computer Science - Faculty Advisor
+- Dr. Robert Dahlberg  - Mentor
+- Dr. Ahmet Sonmez- Computer Science - Faculty Advisor
 - Arbab Arif - Computer Science Major - Student Team Member
 - Long Le - Computer Science Major - Student Team Member
 - Osman Zafar - Computer Science Major - Student Team Member
